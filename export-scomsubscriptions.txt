@@ -1,4 +1,4 @@
-###This script will list out all subscriptions and their details in a txt file. For more details: https://blog.topqore.com/export-scom-subscriptions-using-powershell/
+### This PoSh script will list out all subscriptions and their details in a txt file. Save file as .ps1 to run. For more details: https://blog.topqore.com/export-scom-subscriptions-using-powershell/
 
 
 Import-Module OperationsManager
