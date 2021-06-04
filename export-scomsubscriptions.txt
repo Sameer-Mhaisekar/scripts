@@ -1,3 +1,6 @@
+###This script will list out all subscriptions and their details in a txt file. For more details: https://blog.topqore.com/export-scom-subscriptions-using-powershell/
+
+
 Import-Module OperationsManager
 $subs = Get-SCOMNotificationSubscription
 foreach($sub in $subs){
